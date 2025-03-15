@@ -1,4 +1,4 @@
-# MachineryVision 🚜🔍
+# Machinery-Detection-System-VLM 🚜🔍
 
 ## 📌 Introduction
 
